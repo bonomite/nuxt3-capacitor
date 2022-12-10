@@ -1,6 +1,6 @@
 {
-  "appId": "com.unnamed",
-  "appName": "unnamed",
-  "webDir": "www",
+  "appId": "com.bonomite.nuxtappionic",
+  "appName": "nuxtappionic",
+  "webDir": "dist",
   "bundledWebRuntime": false
 }
